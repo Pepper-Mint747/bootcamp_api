@@ -1,0 +1,107 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be042",
+		"name": "Admin Account",
+		"email": "admin@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be043",
+		"name": "Publisher Account",
+		"email": "publisher@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be044",
+		"name": "Kevin Maina",
+		"email": "user@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be045",
+		"name": "John Kotu",
+		"email": "john@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be046",
+		"name": "Kevin Mark",
+		"email": "kevin@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc031",
+		"name": "Mary Williams",
+		"email": "mary@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc032",
+		"name": "Sasha Ryan",
+		"email": "sasha@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc033",
+		"name": "Mike Harris",
+		"email": "mike@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc034",
+		"name": "Derick Glover",
+		"email": "derick@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc035",
+		"name": "Stephanie Hanna",
+		"email": "steph@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc036",
+		"name": "Jerry Wiliams",
+		"email": "jerry@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc037",
+		"name": "Maggie Seth",
+		"email": "maggie@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc038",
+		"name": "Barry Allan",
+		"email": "barry@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc039",
+		"name": "Bruce Wayne",
+		"email": "bruce@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc040",
+		"name": "Alice Ketchup",
+		"email": "alice@gmail.com",
+		"role": "user",
+		"password": "123456"
+	}
+]

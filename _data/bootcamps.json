@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "user": "5d7a514b5d2c12c7449be045",
+    "name": "Brainworks Bootcamp",
+    "description": "Brainworks is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+    "website": "https://brainworks.com",
+    "phone": "0723453728",
+    "email": "enroll@brainworks.com",
+    "address": "Riverside, Ruaraka, Nairobi",
+    "careers": ["Web Development", "UI/UX", "Business"],
+    "housing": true,
+    "jobAssistance": true,
+    "jobGuarantee": false,
+    "acceptGi": true
+  },
+  {
+    "_id": "5d713a66ec8f2b88b8f830b8",
+    "user": "5d7a514b5d2c12c7449be046",
+    "name": "Freneticks Bootcamp",
+    "description": "Freneticks has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary. We teach both development and UI/UX",
+    "website": "https://freneticks.com",
+    "phone": "0764532345",
+    "email": "enroll@freneticks.com",
+    "address": "Cascade Plaza, Thika",
+    "careers": ["Web Development", "UI/UX", "Mobile Development"],
+    "housing": false,
+    "jobAssistance": true,
+    "jobGuarantee": false,
+    "acceptGi": true
+  },
+  {
+    "_id": "5d725a037b292f5f8ceff787",
+    "user": "5c8a1d5b0190b214360dc031",
+    "name": "Catalunya",
+    "description": "Is coding your passion? Catalunya will give you the skills and the tools to become the best developer possible. We specialize in full stack web development and data science",
+    "website": "https://catalunya.com",
+    "phone": "0712893467",
+    "email": "enroll@catalunya.com",
+    "address": "Utalii, Nairobi",
+    "careers": ["Web Development", "Data Science", "Business"],
+    "housing": false,
+    "jobAssistance": false,
+    "jobGuarantee": false,
+    "acceptGi": false
+  },
+  {
+    "_id": "5d725a1b7b292f5f8ceff788",
+    "user": "5c8a1d5b0190b214360dc032",
+    "name": "TheHub Bootcamp",
+    "description": "Is coding your passion? TheHub will give you the skills and the tools to become the best developer possible. We specialize in front end and full stack web development",
+    "website": "https://thehub.com",
+    "phone": "(444) 444-4444",
+    "email": "enroll@thehub.com",
+    "address": "Mwembe, Kisii",
+    "careers": [
+      "Mobile Development",
+      "Web Development",
+      "Data Science",
+      "Business"
+    ],
+    "housing": false,
+    "jobAssistance": true,
+    "jobGuarantee": true,
+    "acceptGi": true
+  }
+]

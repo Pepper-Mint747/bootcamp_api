@@ -1,10 +1,10 @@
 const express = require("express");
 const {
+  getBootcamps,
   getBootcamp,
   createBootcamp,
-  deleteBootcamp,
   updateBootcamp,
-  getBootcamps,
+  deleteBootcamp,
 } = require("../controllers/bootcamps");
 
 const router = express.Router();
@@ -18,3 +18,4 @@ router
   .delete(deleteBootcamp);
 
 module.exports = router;
+
